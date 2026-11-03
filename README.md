@@ -14,9 +14,6 @@ C / C++ · Python · JavaScript · Cloud · Machine learning
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaljoudi&amp;theme=github_dark" width="700" alt="GitHub profile summary and contribution history over the last year" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaljoudi&amp;theme=github_dark" width="345" alt="GitHub totals: stars, commits, pull requests, issues, and repositories contributed to" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaljoudi&amp;theme=github_dark" width="345" alt="Most used languages by public repository" />
 </div>
 
 ### My koi
