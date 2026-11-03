@@ -2,6 +2,11 @@
 I'm currently working on HyperShell: an AI-powered shell extension that gives real-time suggestions and fixes for your commands.<br>I enjoy playing Tennis and Futbal.
 
 
+## 🐟 My GitHub Koi
+<a href="https://github.com/yalongwastaken/git-koi">
+  <img src="koi/koi.gif" width="256" alt="My koi, drawn daily from my public GitHub activity" />
+</a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaljoudi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaljoudi@umich.edu) 
 
