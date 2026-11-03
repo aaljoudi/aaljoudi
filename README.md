@@ -2,8 +2,6 @@
 
 # aaljoudi
 
-Building HyperShell — an AI-powered shell extension for real-time command suggestions and fixes.
-
 **[aaljoudi.com](https://aaljoudi.com)** · [LinkedIn](https://www.linkedin.com/in/aaljoudi) · [Email](mailto:aaljoudi@umich.edu)
 
 C / C++ · Python · JavaScript · Cloud · Machine learning
@@ -15,11 +13,10 @@ C / C++ · Python · JavaScript · Cloud · Machine learning
 ### On GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaljoudi&amp;show_icons=true&amp;include_all_commits=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=58a6ff&amp;icon_color=58a6ff" width="495" alt="GitHub stats: stars, commits, pull requests, issues, reviews, discussions, and merged pull requests" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaljoudi&amp;theme=github_dark" width="700" alt="GitHub profile summary and contribution history over the last year" />
   <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aaljoudi&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=00000000" width="495" alt="GitHub contribution streak: total contributions, current streak, and longest streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaljoudi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=58a6ff" width="495" alt="Most used languages across my public GitHub repositories" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaljoudi&amp;theme=github_dark" width="345" alt="GitHub totals: stars, commits, pull requests, issues, and repositories contributed to" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaljoudi&amp;theme=github_dark" width="345" alt="Most used languages by public repository" />
 </div>
 
 ### My koi
